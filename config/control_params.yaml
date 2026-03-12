@@ -1,0 +1,5 @@
+unified_guidance_node:
+  ros__parameters:
+    enable_pixel_anomaly_detection: true
+    pixel_ewma_alpha: 0.8
+    pixel_anomaly_threshold: 3.0
